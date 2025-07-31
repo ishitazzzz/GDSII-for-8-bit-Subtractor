@@ -7,4 +7,4 @@ In this project, I have mainly focused on designing an 8-bit Subtractor and taki
 6. Timing Analysis(STA): Using PrimeTime (PT compiler),I verified that the design met setup and hold timing requirements. After minor SDC adjustments, the final design achieved positive slack, ensuring reliable operation.
 
 The final layout passed all checks for timing, power, and area, proving that the subtractor is ready for tape-out.
-Check the full detailed process (Tutorial) in the "" pdf.
+Check the full detailed process (Tutorial) in the "Eight_Bit Subtractor RTL to GDSII.pdf" file uploaded.
